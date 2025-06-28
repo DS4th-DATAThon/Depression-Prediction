@@ -41,6 +41,3 @@ DATAThon/
 ```
 
 
-## 최종 발표 QnA 및 Feedback
-
-
