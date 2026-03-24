@@ -2,8 +2,6 @@
 ### 타이핑 된 감정, 분류되는 위험
 > 우리의 진료실은 데이터입니다 : 우울증 예측 프로젝트
 
-- 🔗 [Notion](https://icy-citron-b57.notion.site/DATAThon-M2-202309f028f0806f9314ff6e91b33c7b)
-
 ## DataSet
 - Exploring Mental Health Data (정신 건강 데이터)
 - 🔗 [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e11/overview)
